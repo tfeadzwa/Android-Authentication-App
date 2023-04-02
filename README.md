@@ -1,4 +1,4 @@
-#Authentication App
+# Authentication App
 
 This is an android studio app that authenticates users on login and registration before accessing the services of the application. Authentication was done with firebase hence you might want to create a google firebase account for this. 
 
