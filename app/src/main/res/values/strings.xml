@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AuthenticationApp</string>
+    <string name="application_Name">Authentication App</string>
+    <string name="create_account">Create New Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="login_here_text">Already Registered ? Login Here</string>
+    <string name="login">Login</string>
+    <string name="new_here_create_account">New Here ? Create Account</string>
+</resources>
